@@ -1,0 +1,16 @@
+# Core Flask
+Flask==3.0.0
+Flask-CORS==4.0.0
+Flask-SQLAlchemy==3.1.1
+Werkzeug>=3.0.0
+
+# Data Science & ML
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.0.0
+
+# Explainability
+lime>=0.2.0
+
+# Utilities
+python-dotenv==1.0.0
